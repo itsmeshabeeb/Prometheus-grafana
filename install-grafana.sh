@@ -1,4 +1,4 @@
-cp grafana.repo /etc/yum.repos.d/
+sudo cp grafana.repo /etc/yum.repos.d/
 
 
 sudo yum install grafana -y
